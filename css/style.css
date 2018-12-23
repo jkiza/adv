@@ -2,7 +2,12 @@
     background-color: #deebf2;
 }
 
-h1, h2, h3, h4, p, pre {
+h1,
+h2,
+h3,
+h4,
+p,
+pre {
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -27,7 +32,7 @@ footer {
 }
 
 .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(250,92,100)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(250,92,100)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
 }
 
 .nav-link {
@@ -44,11 +49,13 @@ footer {
     text-align: center;
 }
 
-.line, pre {
+.line,
+pre {
     line-height: 2;
 }
 
-p, pre {
+p,
+pre {
     font-size: 18px;
 }
 
@@ -76,7 +83,7 @@ a {
 }
 
 .squaredThree label {
-  background: #D7B1D7;
+    background: #D7B1D7;
 }
 
 .red {
@@ -103,13 +110,15 @@ a:hover {
     text-decoration: none;
 }
 
-.active, .gray:hover {
+.active,
+.gray:hover {
     color: #fa5c64 !important;
 }
 
-.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
-   background-color: #deebf2 !important;
- }
+.table-striped > tbody > tr:nth-child(odd) > td,
+.table-striped > tbody > tr:nth-child(odd) > th {
+    background-color: #deebf2 !important;
+}
 
 .carousel-indicators li {
     height: 8px !important;
@@ -127,7 +136,10 @@ a:hover {
     border-left: solid 1px;
 }
 
-.sign, .btn, footer, .navbar {
+.sign,
+.btn,
+footer,
+.navbar {
     font-family: 'Merriweather', serif;
 }
 
